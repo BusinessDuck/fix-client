@@ -10,7 +10,12 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MN45NZ5YF3NZ4)
 
-### Base example of exchange market data service
+### Diagram of our system
+
+![](./schema.png?raw=true)
+
+
+#### Base example of exchange market data service
 ```javascript
 import "NYSEMDClient" from "./core/clients/NYSE";
 
@@ -43,7 +48,7 @@ exchangeClient.on("Logon", function(message){
 });
 
 ```
-### Base example of trading bot
+#### Base example of trading bot 
 ```javascript
 import net from 'net';
 
