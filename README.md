@@ -1,5 +1,11 @@
 # English
-## Welcome to the home page of FIX protocol open-source client.
+
+![](./es6-logo.png?raw=true)
+
+### Java script developers welcome to the exchange trading
+ 
+####This is a home page of FIX protocol open-source client.
+
 #### Our ideas:
 1. The open source service for working with exchanges
 2. High leveled API system wrapped our service as high-level client f.e. (NYSE-client with methods specified for this exchange)
