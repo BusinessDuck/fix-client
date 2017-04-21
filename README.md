@@ -1,6 +1,6 @@
 # English
 
-![](./es6-logo.jpg?=50){:width="50px"}.
+![](./es6-logo.png)
 
 ### Java script developers welcome to the exchange trading 
 
