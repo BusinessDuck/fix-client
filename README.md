@@ -1,8 +1,6 @@
 # English
 
-![](./es6-logo.png?raw=true)
-
-### Java script developers welcome to the exchange trading
+### Java script developers welcome to the exchange trading ![](./es6-logo.jpg?raw=true)
  
 ####This is a home page of FIX protocol open-source client.
 
