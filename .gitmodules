@@ -1,0 +1,3 @@
+[submodule "vendors/fix"]
+	path = vendors/fix
+	url = https://github.com/falconair/nodefix.git

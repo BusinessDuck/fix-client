@@ -1,0 +1,28 @@
+{
+  "name": "fixter",
+  "version": "0.0.2",
+  "description": "An iojs implementation of the FIX protocol.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "keywords": [
+    "FIX"
+  ],
+  "author": "Brett Jackson",
+  "license": "BSD",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.20",
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "harmonize": "^1.4.4",
+    "mocha": "^2.2.5"
+  }
+}
